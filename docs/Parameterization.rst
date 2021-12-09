@@ -6,7 +6,7 @@
 Parameterization
 =====
 
- Previously we mentioned where to adjust the **InputActivityRatio** and
+Previously we mentioned where to adjust the **InputActivityRatio** and
 **OutputActivityRatio** (:ref:`interconecting technologies section
 <interconecting-technologies>`).
 
